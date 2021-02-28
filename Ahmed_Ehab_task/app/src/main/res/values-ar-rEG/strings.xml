@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ahmed Ehab Task</string>
+    <string name="mobile">رقم الهاتف</string>
+    <string name="password">كلمة السر</string>
+    <string name="login">دخول</string>
+    <string name="error">خطأ</string>
+    <string name="okay">موافق</string>
+    <string name="error_message">حدث خطأ</string>
+    <string name="notice">تنوية</string>
+    <string name="book">حجز</string>
+    <string name="departments">الاقسام</string>
+    <string name="see_all">مشاهدة الجميع</string>
+    <string name="no_depatrments">لا توجد أقسام</string>
+    <string name="popular_doctor">الأطباء</string>
+    <string name="select_date">حدد تاريخ</string>
+    <string name="select_time">حدد الوقت</string>
+    <string name="submit">إرسال</string>
+</resources>

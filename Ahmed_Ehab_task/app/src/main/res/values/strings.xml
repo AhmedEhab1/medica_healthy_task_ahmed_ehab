@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Ahmed Ehab Task</string>
+    <string name="mobile">Mobile</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="error">error</string>
+    <string name="okay">OK</string>
+    <string name="error_message">an error occurred</string>
+    <string name="notice">Notice</string>
+    <string name="book">book</string>
+    <string name="departments">Departments</string>
+    <string name="see_all">See All</string>
+    <string name="no_depatrments">There are no Departments</string>
+    <string name="popular_doctor">Popular Doctor</string>
+    <string name="select_date">Select date</string>
+    <string name="select_time">Select Time</string>
+    <string name="submit">Submit</string>
+</resources>
